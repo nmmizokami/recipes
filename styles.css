@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(246, 224, 195);
+}
+
+.recipe-tile {
+    display: inline;
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+    
+}
